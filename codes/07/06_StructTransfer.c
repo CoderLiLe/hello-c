@@ -1,5 +1,5 @@
 //
-// Created by shkstart on 2023/10/10.
+// Created by CoderLiLe on 2025/10/10.
 // 结构体变量的赋值操作：将结构体变量完全的复制一份给新的结构体变量。
 
 #include <stdio.h>

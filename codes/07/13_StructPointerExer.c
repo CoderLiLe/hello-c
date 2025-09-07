@@ -1,5 +1,5 @@
 //
-// Created by shkstart on 2023/10/10.
+// Created by CoderLiLe on 2025/10/10.
 /*
  * （1）编写一个Dog结构体，包含name(char[10])、age(int)、weight(double)属性
 

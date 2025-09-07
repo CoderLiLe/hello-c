@@ -1,5 +1,5 @@
 //
-// Created by shkstart on 2023/10/10.
+// Created by CoderLiLe on 2025/10/10.
 // 需求：输入一个班级的学生信息(包含id、name、gender、score)，
 // 并把学习成绩超过全班平均成绩的学生找出来，输出这部分学生的姓名和成绩。
 

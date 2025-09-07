@@ -1,5 +1,5 @@
 //
-// Created by shkstart on 2023/10/8.
+// Created by CoderLiLe on 2025/10/8.
 // 测试可变参数的函数
 
 #include <stdio.h>

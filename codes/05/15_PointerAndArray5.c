@@ -1,5 +1,5 @@
 //
-// Created by shkstart on 2023/9/1.
+// Created by CoderLiLe on 2025/9/1.
 // 二维数组中使用指针变量的操作
 
 #include <stdio.h>

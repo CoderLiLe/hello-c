@@ -1,5 +1,5 @@
 //
-// Created by shkstart on 2023/9/1.
+// Created by CoderLiLe on 2025/9/1.
 // 测试：一维数组中指针的使用3
 
 #include <stdio.h>

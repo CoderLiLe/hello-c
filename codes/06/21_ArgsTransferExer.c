@@ -1,5 +1,5 @@
 //
-// Created by shkstart on 2023/9/28.
+// Created by CoderLiLe on 2025/9/28.
 //
 /*
  *在长度为 n、由 p 指向的一维数组中求元素最大值

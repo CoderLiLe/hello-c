@@ -1,5 +1,5 @@
 //
-// Created by shkstart on 2023/10/12.
+// Created by CoderLiLe on 2025/10/12.
 // 测试字符串的使用
 
 #include <stdio.h>

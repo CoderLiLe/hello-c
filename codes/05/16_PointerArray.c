@@ -1,5 +1,5 @@
 //
-// Created by shkstart on 2023/9/1.
+// Created by CoderLiLe on 2025/9/1.
 // 数组指针 与 指针数组
 
 #include <stdio.h>

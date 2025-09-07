@@ -1,5 +1,5 @@
 //
-// Created by shkstart on 2023/9/2.
+// Created by CoderLiLe on 2025/9/2.
 // 字符串的表示：字符数组 与 字符指针变量
 
 #include <stdio.h>

@@ -1,5 +1,5 @@
 //
-// Created by shkstart on 2023/9/2.
+// Created by CoderLiLe on 2025/9/2.
 // 测试指向固定长度的数组的指针变量的使用
 
 #include <stdio.h>

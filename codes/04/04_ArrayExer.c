@@ -1,5 +1,5 @@
 //
-// Created by shkstart on 2023/8/29.
+// Created by CoderLiLe on 2025/8/29.
 // 一维数组的练习：数值型数组的特征值的计算
 
 #include <stdio.h>

@@ -1,5 +1,5 @@
 //
-// Created by shkstart on 2023/8/25.
+// Created by CoderLiLe on 2025/8/25.
 // 算术运算符的课后练习
 
 #include <stdio.h>

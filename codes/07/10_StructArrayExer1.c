@@ -1,5 +1,5 @@
 //
-// Created by shkstart on 2023/10/10.
+// Created by CoderLiLe on 2025/10/10.
 // 需求：编写一个统计选票的系统，根据先后输入的候选人姓名，统计各人的得票数。
 
 #include <stdio.h>

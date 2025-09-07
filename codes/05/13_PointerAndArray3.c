@@ -1,5 +1,5 @@
 //
-// Created by shkstart on 2023/9/1.
+// Created by CoderLiLe on 2025/9/1.
 // 测试：二维数组中指针的使用:使用数组名访问数组元素
 
 #include <stdio.h>

@@ -1,5 +1,5 @@
 //
-// Created by shkstart on 2023/8/25.
+// Created by CoderLiLe on 2025/8/25.
 // 测试条件运算符的使用
 /*
  * (条件表达式)? 表达式1:表达式2
