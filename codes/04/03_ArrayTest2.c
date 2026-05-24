@@ -3,7 +3,7 @@
 // 测试一维数组的内存分析
 
 #include <stdio.h>
-#include <malloc.h>
+#include <stdlib.h>
 
 int main(){
 

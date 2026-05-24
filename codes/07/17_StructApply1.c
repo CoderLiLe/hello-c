@@ -3,7 +3,7 @@
 // 结构体在数据结构中的应用
 
 #include <stdio.h>
-#include <malloc.h>
+#include <stdlib.h>
 #include <string.h>
 
 typedef struct StudentNode {

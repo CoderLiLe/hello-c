@@ -55,8 +55,33 @@
    - 尝试运行和修改代码，加深理解
 
 3. **运行代码**
-   - 使用命令行编译：`gcc 文件名.c -o 可执行文件名`
-   - 或使用CLion等IDE直接运行
+
+   **方式一：使用构建脚本（推荐）**
+   ```bash
+   cd codes
+   chmod +x build.sh
+   ./build.sh
+   cd build
+   ./01_Hello   # 运行第1章的第1个示例
+   ```
+
+   **方式二：使用CMake命令行**
+   ```bash
+   cd codes
+   mkdir -p build && cmake -S . -B build
+   cmake --build build -j4
+   ./build/01_Hello
+   ```
+
+   **方式三：直接使用gcc/clang编译**
+   ```bash
+   cd codes
+   gcc 01/01_Hello.c -o hello -std=c99
+   ./hello
+   ```
+
+   **方式四：使用CLion等IDE**
+   - 在CLion中打开 `codes/` 目录，选择目标运行
 
 ## 适用人群
 
@@ -78,4 +103,4 @@
 
 ## 许可证
 
-本项目仅供学习使用。
+ 本项目仅供学习使用。

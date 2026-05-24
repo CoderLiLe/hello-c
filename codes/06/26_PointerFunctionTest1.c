@@ -4,7 +4,7 @@
 
 
 #include <stdio.h>
-#include <malloc.h>
+#include <stdlib.h>
 
 //情境1：
 int func1(){

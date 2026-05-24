@@ -3,7 +3,7 @@
 // 结构体在数据结构中的应用
 
 #include <stdio.h>
-#include <malloc.h>
+#include <stdlib.h>
 
 //声明单向链表的结点：结构体
 //方式1：

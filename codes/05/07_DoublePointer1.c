@@ -3,7 +3,7 @@
 // 二级指针的练习
 
 #include <stdio.h>
-#include <malloc.h>
+#include <stdlib.h>
 
 int main(){
 
